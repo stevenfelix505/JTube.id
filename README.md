@@ -1,3 +1,5 @@
+# forked from <a href="https://github.com/shinovon">@Shinovon</a> repository to add Indonesian language
+
 # JTube.id
 Klien YouTube berdasarkan kode API Invidious untuk perangkat Java dengan dukungan MIDP 2.0
 
